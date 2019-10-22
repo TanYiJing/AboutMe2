@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Tan Yi Jing</string>
+    <string name="profilePicture">Profile Picture</string>
+    <string name="description">
+        \nEducaton :
+        \n\t SRJK (c) Chung Hwa 3
+        \n
+        \n\t SMJK (c) Chung Ling Butterworth
+        \n
+        \n\t TARUC
+        \n
+        \nWorking Experience:
+        \n\t Parkson Malaysia
+        \n
+        \n\t Hospital
+        \n
+        \n\t Hello World
+        \n
+        \n\t Lecturer
+        \n
+        \nEducaton :
+        \n\t SRJK (c) Chung Hwa 3
+        \n
+        \n\t SMJK (c) Chung Ling Butterworth
+        \n
+        \n\t TARUC
+        \n
+        \nWorking Experience:
+        \n\t Parkson Malaysia
+        \n
+        \n\t Hospital
+        \n
+        \n\t Hello World
+        \n
+        \n\t Lecturer
+        \n
+
+    </string>
+</resources>
